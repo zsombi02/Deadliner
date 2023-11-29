@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356050730540",
+    "project_id": "deadliner-c234a",
+    "storage_bucket": "deadliner-c234a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356050730540:android:539d331b92ee0e92bedb89",
+        "android_client_info": {
+          "package_name": "hu.bme.aut.android.deadliner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_9tZ-cCL049G3I0btBUtiYGJ4XK5YZzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
